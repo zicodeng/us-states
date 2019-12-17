@@ -1,7 +1,11 @@
 {
   "name": "@zicodeng/us-states",
   "version": "1.0.0",
-  "description": "",
+  "description": "All U.S. state names and abbreviations",
+  "keywords": [
+    "us states",
+    "states"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
