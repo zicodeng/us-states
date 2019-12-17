@@ -9,5 +9,5 @@ import {
   US_STATES,
   US_STATE_NAMES,
   US_STATE_ABBREVIATIONS,
-} from '@zicodeng/us-states';
+} from '@ztopia/us-states';
 ```
