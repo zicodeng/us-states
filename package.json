@@ -1,0 +1,19 @@
+{
+  "name": "@zicodeng/us-states",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zicodeng/us-states.git"
+  },
+  "author": "Zico Deng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zicodeng/us-states/issues"
+  },
+  "homepage": "https://github.com/zicodeng/us-states#readme"
+}
