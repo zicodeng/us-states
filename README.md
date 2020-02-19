@@ -7,13 +7,13 @@ All U.S. state names, abbreviations, and chinese translations
 ```js
 import { US_STATES } from '@ztopia/us-states';
 
-// [
+// {
 //   ...
-//   {
-//     name: 'District Of Columbia',
-//     abbreviation: 'DC',
-//     translation: '哥伦比亚特区',
-//   }
+//   Washington: {
+//     name: 'Washington',
+//     abbreviation: 'WA',
+//     translation: '华盛顿州',
+//   },
 //   ...
-// ]
+// }
 ```
