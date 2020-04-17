@@ -25,7 +25,7 @@ export interface USState {
 }
 
 export interface USStates {
-  [name: string]: USState | undefined;
+  [name: string]: USState;
 }
 
 export const US_STATES: USStates;
