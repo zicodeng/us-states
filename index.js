@@ -1,30 +1,8 @@
-export const US_CLIMATE_TYPES = {
-  MarineWestcoastClimate: 'Marine Westcoast Climate',
-  MediterraneanClimate: 'Mediterranean Climate',
-  HumidContinentalClimate: 'Humid Continental Climate',
-  HumidSubtropicalClimate: 'Humid Subtropical Climate',
-  SemiaridSteppeClimate: 'Semiarid Steppe Climate',
-  HighlandClimate: 'Highland Climate',
-  MidlatitudeDesertClimate: 'Midlatitude Desert Climate',
-};
-
-export const US_CLIMATE_TYPE_TRANSLATIONS = {
-  MarineWestcoastClimate: '温带海洋性气候',
-  MediterraneanClimate: '地中海气候',
-  HumidContinentalClimate: '湿润大陆性气候',
-  HumidSubtropicalClimate: '亚热带湿润气候',
-  SemiaridSteppeClimate: '半干旱草原气候',
-  HighlandClimate: '高原山地气候',
-  MidlatitudeDesertClimate: '中纬度沙漠气候',
-};
-
 export const US_STATES = {
   Alabama: {
     name: 'Alabama',
     abbreviation: 'AL',
     translation: '阿拉巴马州',
-    climate_type: US_CLIMATE_TYPES.HighlandClimate,
-    climate_type_translation: US_CLIMATE_TYPE_TRANSLATIONS.HighlandClimate,
   },
   Alaska: {
     name: 'Alaska',
